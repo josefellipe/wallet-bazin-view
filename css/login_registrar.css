@@ -5,6 +5,24 @@
   padding: 8% 0 0;
   margin: auto;
 }
+
+#main-menu .nav-bar {
+	list-style: none;
+	margin-top: 40px;
+}
+
+#main-menu .nav-bar li {
+	display: inline;
+	padding: 0 10px;
+}
+
+#main-menu .nav-bar li a {
+	text-decoration: none;
+	padding-left: 25px;
+	text-transform: uppercase;
+	color: #333;
+}
+
 .form {
   position: relative;
   z-index: 1;
